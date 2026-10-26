@@ -1,0 +1,1 @@
+# Gerenciamento_de_senhas_para_clinica
